@@ -1,0 +1,21 @@
+{
+  "name": "meison01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "parcel index.html "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ionic/app-scripts": "3.2.4",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "firebase": "^8.9.1"
+  }
+}
